@@ -1,1 +1,9 @@
 # atlantic-hall-experience
+
+The official Atlantic Hall Educational Trust Council App was a project created by the school's coding club. 
+
+Quickly learn about Atlantic Hall, Poka-Epe, Nigeria.
+
+Excellence and Integrity.
+
+No longer available on the Google Play Store.
