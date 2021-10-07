@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Atlantic Hall Experience</string>
+
+    <string name="title_home">Home</string>
+    <string name="home_intro">Established in 1989 by the Atlantic Hall Educational Trust Council, Atlantic Hall is a co-educational full-boarding secondary school committed to providing a <b>well-rounded education</b>, guided by a <b>committed faculty</b> and <b>outstanding</b> pastoral care.\n</string>
+    <string name="home_stat">\nAtlantic Hall has a dual curriculum pathway to teach <i>both</i> the Nigerian and International programmes. This approach to secondary school education is <b>enabling</b>, for the possible migration of graduates to alternative international education systems and wider enrichment.\n</string>
+    <string name="home_text">\nThe school has <u>650 students and a staff-student ratio of 9:1</u>, creating an <b>optimum</b> learning environment and the nurture of each student to develop inherent talents, mental agility, self-belief, strength of character and the ability to live and work well with others.\n</string>
+    <string name="home_end">\nLiving and learning on a <b>safe and serene</b> 30 hectare campus in Poka – Epe, Lagos, the Atlantic Hall student graduates as a leader and erudite scholar, cultured and <i>fully equipped</i> to excel in <b>life, higher education and leadership positions</b> across top professions globally. Just as our motto states, we celebrate <u>Excellence and Integrity</u>.</string>
+
+    <string name="title_info">Information</string>
+
+    <string name="title_contact">Contact</string>
+    <string name="contact_text">The school is committed to and reflects academic excellence and a well rounded education. Atlantic Hall was established in January 1989 by the Atlantic Hall Educational Trust Council. A registered non-profit sharing organisation. The body is composed of members from varied professions who share a common passion for a 21st Century Nigeria with an enviable and competitive standard of education.</string>
+    <string name="enquiries">Other Enquiries</string>
+    <string name="learn">Learn more at\nhttp://atlantic-hall.net/</string>
+    <string name="school_email">enquiries@atlantic-hall.net</string>
+    <string name="school_phone">+234(1)2912647</string>
+    <string name="school_location">Atlantic Hall, Poka-Epe, Lagos, Nigeria</string>
+
+    <string name="created_by">Development Team</string>
+    <string name="created_by_text">Atlantic Hall Experience was created by:</string>
+    <string name="created_names">Fadare Oluwanifemi - Development Lead\nAdeyemi Tomisin - Programmer\nPaulinus David - Designer\nOdunuga Lere - Programmer\nAde-Ohiosimuan Aigboje - Hypeman</string>
+
+    <string name="app_id">ca-app-pub-2792191256308803~6440952713</string>
+    <string name="banner_home_footer">ca-app-pub-2792191256308803/4692756778</string>
+    <string name="test_device_name">66BE60CD5025B6BB77A85172DB55D86E</string>
+    <string name="tappx">/120940746/Pub-28223-Android-0352</string>
+
+</resources>
