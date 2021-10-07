@@ -8,4 +8,4 @@ Quickly learn about Atlantic Hall, Poka-Epe, Nigeria. Excellence and Integrity.
 No longer available on the Google Play Store.
 
 # Screenshots 
-![image](https://user-images.githubusercontent.com/79525647/136379018-51a86b84-1c41-4a31-8a6f-f1a24ce7fe6a.png)
+[//]:<img src="https://github.com/offad/atlantic-hall-experience/blob/master/screenshots/main_spash_screen.png" width="480" hieght="854">
